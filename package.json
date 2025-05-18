@@ -4,7 +4,11 @@
   "description": "",
   "main": "index.html",
   "scripts": {
+<<<<<<< HEAD
     "start": "node index.js"
+=======
+     
+>>>>>>> 44dfbe2d81915fe40f2b0ff329873963846cab8c
   },
   "repository": {
     "type": "git",
